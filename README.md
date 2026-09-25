@@ -6,3 +6,6 @@ Menambahkan Collection List
 <img width="1279" height="719" alt="image" src="https://github.com/user-attachments/assets/7f85f3d4-7156-4adc-8a4e-5d7db897d702" />
 Menambahkan Collection Set
 <img width="1270" height="716" alt="image" src="https://github.com/user-attachments/assets/b706ab1f-a5a6-46b2-8615-46a72969a19e" />
+
+Menambahkan Collection Map
+<img width="1266" height="716" alt="image" src="https://github.com/user-attachments/assets/78efb644-097b-4ed8-8dc4-ef8cc7ed21cb" />
