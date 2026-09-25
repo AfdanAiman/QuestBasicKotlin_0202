@@ -17,3 +17,6 @@ Menambahkan perulangan for
 
 Menambahkan perulangan dengan menggunakan while
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/051f87ca-eac0-4a39-85b5-246df66b2d70" />
+
+Menambahkan class
+<img width="1279" height="714" alt="image" src="https://github.com/user-attachments/assets/586a51a0-d513-4ace-b4fd-cdfb4e22f80e" />
