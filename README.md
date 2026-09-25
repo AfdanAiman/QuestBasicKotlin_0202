@@ -9,3 +9,6 @@ Menambahkan Collection Set
 
 Menambahkan Collection Map
 <img width="1266" height="716" alt="image" src="https://github.com/user-attachments/assets/78efb644-097b-4ed8-8dc4-ef8cc7ed21cb" />
+
+menambahkan Conditional expressions
+<img width="1279" height="719" alt="image" src="https://github.com/user-attachments/assets/27c48298-aee4-44e5-942c-8a977d77842e" />
