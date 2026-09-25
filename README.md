@@ -15,4 +15,5 @@ menambahkan Conditional expressions
 Menambahkan perulangan for
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/1c4f5455-d5f1-41fc-a149-9cd29daacd8d" />
 
-
+Menambahkan perulangan dengan menggunakan while
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/051f87ca-eac0-4a39-85b5-246df66b2d70" />
