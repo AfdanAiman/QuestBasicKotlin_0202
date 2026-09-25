@@ -12,3 +12,7 @@ Menambahkan Collection Map
 
 menambahkan Conditional expressions
 <img width="1279" height="719" alt="image" src="https://github.com/user-attachments/assets/27c48298-aee4-44e5-942c-8a977d77842e" />
+Menambahkan perulangan for
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/1c4f5455-d5f1-41fc-a149-9cd29daacd8d" />
+
+
